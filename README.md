@@ -21,3 +21,19 @@ This is a repository gathering all the notebooks for the Towards AI RAG book.
 - [Chapter 07 - Create_a_YouTube_Video_Summarizer_Using_Whisper_and_LangChain_.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2007%20-%20Create_a_YouTube_Video_Summarizer_Using_Whisper_and_LangChain_.ipynb)
 - [Chapter 07 - Guarding_Against_Undesirable_Outputs_with_the_Self_Critique_Chain.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2007%20-%20Guarding_Against_Undesirable_Outputs_with_the_Self_Critique_Chain.ipynb)
 - [Chapter 07 - Guarding_Against_Undesirable_Outputs_with_the_Self_Critique_Chain_Example.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2007%20-%20Guarding_Against_Undesirable_Outputs_with_the_Self_Critique_Chain_Example.ipynb)
+
+- [Chapter 08 - Mastering_Advanced_RAG.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2008%20-%20Mastering_Advanced_RAG.ipynb)
+- [Chapter 08 - RAG_Metrics&Evaluation.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2008%20-%20RAG_Metrics%26Evaluation.ipynb)
+- [Chapter 08 - LangSmith_Introduction.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2008%20-%20LangSmith_Introduction.ipynb)
+
+- [Chapter 09 - LlamaIndex_RAG_AGENT.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2009%20-%20LlamaIndex_RAG_AGENT.ipynb)
+- [Chapter 09 - MultiModal_Fincance_+_DeepMemory.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2009%20-%20MultiModal_Fincance_%2B_DeepMemory.ipynb)
+
+- [Chapter 10 - FineTuning_a_LLM_LIMA_CPU.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_a_LLM_LIMA_CPU.ipynb)
+- [Chapter 10 - FineTuning_a_LLM_Financial_Sentiment_CPU.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_a_LLM_Financial_Sentiment_CPU.ipynb)
+- [Chapter 10 - Fine_Tuning_using_Cohere_for_Medical_Data.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20Fine_Tuning_using_Cohere_for_Medical_Data.ipynb)
+- [Chapter 10 - FineTuning_a_LLM_QLoRA.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_a_LLM_QLoRA.ipynb)
+- [Chapter 10 - FineTuning_Reward_Model.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_Reward_Model.ipynb)
+- [Chapter 10 - FineTune_RLHF.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTune_RLHF.ipynb)
+
+- [Chapter 11 - Benchmark_Inference.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2011%20-%20Benchmark_Inference.ipynb)
