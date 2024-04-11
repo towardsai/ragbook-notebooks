@@ -33,6 +33,7 @@ This is a repository gathering all the notebooks for the Towards AI RAG book.
 - [LangSmith_Introduction.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2008%20-%20LangSmith_Introduction.ipynb)
 
 ## Chapter 9
+- [Using_AutoGPT_with_LangChain.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2009%20-%20Using_AutoGPT_with_LangChain.ipynb)
 - [LlamaIndex_RAG_AGENT.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2009%20-%20LlamaIndex_RAG_AGENT.ipynb)
 - [MultiModal_Fincance_+_DeepMemory.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2009%20-%20MultiModal_Fincance_%2B_DeepMemory.ipynb)
 
