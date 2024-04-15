@@ -40,7 +40,7 @@ This is a repository gathering all the notebooks for the Towards AI RAG book.
 ## Chapter 10
 - [FineTuning_a_LLM_LIMA_CPU.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_a_LLM_LIMA_CPU.ipynb)
 - [FineTuning_a_LLM_Financial_Sentiment_CPU.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_a_LLM_Financial_Sentiment_CPU.ipynb)
-- [Cohere_Dataset_For_Cohere_Fine_Tuning.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20Cohere_Dataset_For_Cohere_Fine_Tuning.ipynb)
+- [Create_Dataset_For_Cohere_Fine_Tuning.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20Create_Dataset_For_Cohere_Fine_Tuning.ipynb)
 - [Fine_Tuning_using_Cohere_for_Medical_Data.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20Fine_Tuning_using_Cohere_for_Medical_Data.ipynb)
 - [FineTuning_a_LLM_QLoRA.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_a_LLM_QLoRA.ipynb)
 - [FineTuning_Reward_Model.ipynb](https://colab.research.google.com/github/towardsai/ragbook-notebooks/blob/main/notebooks/Chapter%2010%20-%20FineTuning_Reward_Model.ipynb)
