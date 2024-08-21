@@ -25,3 +25,5 @@ yt_dlp
 git+https://github.com/openai/whisper.git
 transformers
 librosa
+ffmpeg
+langgraph
